@@ -1,0 +1,81 @@
+header{
+    background-color:wheat;
+    text-align: center;
+    font-size: 40px;
+}
+
+/**namkeen**/
+.namkeen{
+    background-color: wheat;
+    font-size: 20px;
+}
+
+     /**navbar**/
+#navbar{height: 60px;
+    background-color:whitesmoke;
+}
+button{
+    background-color: rgb(252, 240, 10);
+    }
+    a{
+        margin-right: 180px;
+
+    }
+    .hero-section{
+        background-image:url('https://www.haldiram.com/media/.renditions/wysiwyg/homepage/Savouries_Banner_1_.jpg?auto=webp&format=pjpg&quality=85');
+       background-size: cover;
+        height: 400px;
+        
+    }
+
+    /**shop section **/
+.shop-section{
+    display: flex;
+    justify-content: space-evenly;
+    background-color:wheat;
+}
+.box{
+    height: 400px;
+    width: 22%;
+    background-color: rgb(253, 253, 253);
+    padding: 20px 0px 15px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+.box-img{
+    height:300px;
+width: 100%;
+background-image: contain;
+background-size: cover;
+    
+
+
+ }
+ .box-content{
+    margin-left:10px;
+    margin-right:10px:
+ }
+ 
+ .form{
+    text-align: center;
+    background-color:white;
+ }
+ .button{
+    color: aqua;
+ }
+
+    .contact{
+        background-color: black;
+        color: white;
+        margin: 00px;
+        padding: 10px;
+    }
+    
+    /**footer**/
+ footer{
+    background-colo:wheat ;
+
+    text-align: center;
+ }
+    
+ 
